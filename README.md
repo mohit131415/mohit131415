@@ -59,7 +59,7 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity AI, GitHub Copilot
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,java,react,nextjs,nestjs,nodejs,postgres,mysql,mongodb,redis,docker,aws,git,github,vscode&perline=10&theme=dark" alt="Skill Tree" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,java,react,nextjs,nestjs,nodejs,postgres,mysql,mongodb,redis,docker,git,github&perline=9&theme=dark" alt="Skill Tree" />
   </a>
 </p>
 
@@ -107,7 +107,14 @@ A scalable notification automation tool for transactional alerts and customer en
 I build and orchestrate next-generation AI agents capable of real-time voice interaction and autonomous task execution.
 * **LLM Engines:** `Groq (Llama-3)`, `OpenAI`
 * **Real-Time Comm:** `LiveKit WebRTC`, `Deepgram STT/TTS`
-* **Development Flow:** Heavy usage of **Cursor IDE**, **Antigravity AI**, and **GitHub Copilot** to write systems at 10x speed.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
+  <img src="https://img.shields.io/badge/Antigravity_AI-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
+
+*Heavy daily usage of AI-assisted IDEs and agentic tools to build enterprise architectures at 10x speed.*
 
 ---
 
