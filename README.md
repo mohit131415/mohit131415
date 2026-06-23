@@ -1,87 +1,83 @@
-<!-- 
-  ▀▀█▀▀ █▀▀ █▀▀█ █▀▄▀█ ▀█▀ █▀▀▄ █▀▀█ █░░ 
-  ░░█░░ █▀▀ █▄▄▀ █░▀░█ ░█░ █░░█ █▄▄█ █░░ 
-  ░░▀░░ ▀▀▀ ▀░▀▀ ▀░░░▀ ▄█▄ ▀░░▀ ▀░░▀ ▀▀▀ 
--->
-
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://raw.githubusercontent.com/mohit131415/mohit131415/main/assets/banner.gif" onerror="this.src='https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif'" width="100%" alt="Cyberpunk Cityscape" />
+```text
+        __...--~~~~~-._   _.-~~~~~--...__
+      //               `V'               \\ 
+     //                 |                 \\ 
+    //__...--~~~~~~-._  |  _.-~~~~~~--...__\\ 
+   //__.....----~~~~._\ | /_.~~~~----.....__\\
+  ====================\\|//====================
+                       `---`
+```
+# 📖 Mohit Lalwani
+### *Enterprise Architect & Autonomous AI Integrator*
 
-<!-- TYPING ANIMATION TERMINAL -->
-<a href="https://github.com/mohit131415">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&background=0D0D0D&center=true&vCenter=true&width=800&height=80&lines=INITIATING+SYSTEM...;LOAD_USER_+%22Mohit+Lalwani%22;ROLE_+%22Full-Stack+Architect%22;STATUS_+%22Deploying+AI+Agents%22;CONNECTION_+ESTABLISHED." alt="Terminal Execution" />
-</a>
+*“Building systems that orchestrate couriers, automate thousands of daily messages, and converse via AI—all in real-time.”*
+
+<br>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-lalwani)
+[![Send Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalwanimohit858@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917888261079)
 
 <br><br>
-
-### 🟢 `[SYS_ADMIN_PROFILE]`
-
-> *"I don't just write code. I engineer high-throughput logistics orchestrators and autonomous AI voice agents."*
-
-[![Connect on LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/mohit-lalwani)
-[![Send Email](https://img.shields.io/badge/EMAIL-ESTABLISH_UPLINK-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:lalwanimohit858@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-ENCRYPTED_COMMS-000000?style=for-the-badge&logo=whatsapp&logoColor=00FF00)](tel:+917888261079)
-
----
-
-### 🧬 `[TECH_GENOME]`
-
-```yaml
-# Stack Configuration Loaded
-Frontend:    [ "React 19", "Next.js", "Zustand", "TailwindCSS v4", "GSAP" ]
-Backend:     [ "NestJS", "Node.js", "PHP 8.2", "ASP.NET Core", "Python" ]
-Databases:   [ "PostgreSQL", "MongoDB", "Redis", "SQLite" ]
-AI_Toolkit:  [ "Cursor IDE", "Antigravity", "GitHub Copilot", "Groq Llama-3" ]
-Logistics:   [ "Uber Courier API", "Borzo API", "Shadowfax API", "Rapido API" ]
-```
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,php,cs,java,react,nextjs,nestjs,nodejs,postgres,mysql,mongodb,redis,docker,aws,git,github,vscode&perline=10&theme=dark" alt="Skill Tree" />
-  </a>
-</p>
-
----
-
-### 🚀 `[PRODUCTION_DEPLOYMENTS]`
-
-<div align="center">
-
-| `// RAMESH SWEETS ERP` | `// BULK WHATSAPP ENGINE` |
-| :--- | :--- |
-| **Enterprise Hyperlocal Delivery Hub**<br>A massive real-time E-Commerce engine that hooks directly into Uber/Borzo driver networks for on-demand confectionary logistics.<br><br>🛠️ *PHP 8.2 • React 19 • Redis • Cashfree*<br>🟢 [Live Uplink: rameshsweets.co.in](http://rameshsweets.co.in/) | **High-Throughput Notification Server**<br>A fully automated Puppeteer-driven broadcast network for dynamic customer engagement, overriding rate limits with custom delay algorithms.<br><br>🛠️ *Node.js • Express • Puppeteer DOM Automation*<br>🟢 *Status: Operational* |
 
 </div>
 
 ---
 
-### 📡 `[NETWORK_TELEMETRY]`
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td width="800" style="border: 1px solid #333; border-radius: 10px; background-color: #0d1117; padding: 20px;">
+        <h3>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>mohit@macbook-pro: ~</code></h3>
+        <hr style="border-color: #333;">
+        <pre style="background: transparent; border: none; font-family: 'Fira Code', monospace; color: #c9d1d9;">
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ whoami
+Mohit Lalwani
+&nbsp;
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ cat mission_statement.txt
+"I architect high-throughput logistics ERPs and automate AI voice agents.
+Currently building infrastructure that routes couriers and sends thousands
+of encrypted WhatsApp alerts per second."
+&nbsp;
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls -l ./tech_stack/
+drwxr-xr-x  <b>Frontend</b>    React 19, Next.js, Tailwind v4, Zustand, GSAP
+drwxr-xr-x  <b>Backend</b>     PHP 8.2, NestJS, Node.js, Python, ASP.NET Core
+drwxr-xr-x  <b>Database</b>    PostgreSQL, MongoDB, Redis, SQLite
+drwxr-xr-x  <b>AI_Agents</b>   LiveKit WebRTC, Groq Llama-3, Deepgram
+drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity AI, GitHub Copilot
+&nbsp;
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ./deploy_production_architectures.sh
+[ OK ] Deploying <b>Ramesh Sweets ERP</b>...
+       ↳ Enterprise delivery hub routing live Uber/Borzo drivers.
+       ↳ Processed via Cashfree & PHP 8.2 Microservices.
+       ↳ <a href="http://rameshsweets.co.in" style="color: #79c0ff;">http://rameshsweets.co.in</a>
+&nbsp;
+[ OK ] Deploying <b>Bulk WhatsApp Engine</b>...
+       ↳ High-throughput notification server via Puppeteer DOM automation.
+       ↳ Custom delay algorithms deployed to bypass rate limits.
+&nbsp;
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ _ <span style="animation: blink 1s step-end infinite;">█</span>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <!-- Glowing Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit131415&show_icons=true&theme=hacker&hide_border=true&include_all_commits=true&count_private=true&title_color=00FF00&text_color=A9A9A9&icon_color=00FF00" alt="GitHub Stats" width="48%" />
-  
-  <!-- Glowing Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit131415&theme=hacker&hide_border=true&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=A9A9A9&dates=A9A9A9" alt="GitHub Streak" width="48%" />
-</p>
-
-<!-- Continuous Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit131415&custom_title=System%20Activity%20Monitor&hide_border=true&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&title_color=00FF00&area=true" alt="Activity Graph" width="98%" />
-</p>
+<br><br>
 
 ---
 
-### 🐍 `[AUTOMATED_CONTRIBUTION_EATER]`
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit131415/mohit131415/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit131415/mohit131415/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mohit131415/mohit131415/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+### ⚡ Live System Diagnostics
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohit131415&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit131415&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Top Languages" width="48%" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit131415&custom_title=Annual%20Contribution%20Graph&hide_border=true&bg_color=00000000&color=ffffff&line=79c0ff&point=ffffff&title_color=ffffff&area=true" alt="Activity Graph" width="100%" />
 
 </div>
