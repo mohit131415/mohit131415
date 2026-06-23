@@ -7,13 +7,43 @@
 <h3 align="center"><em>"Designing high-throughput ERPs, orchestrating couriers, and automating AI in real-time."</em></h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohit-lalwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/mohit-lalwani-6a588b28b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:lalwanimohit858@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/917888261079"><img src="https://img.shields.io/badge/WhatsApp_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
 
 </div>
 
+<br>
+
+<div align="center">
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td width="800" style="border: 1px solid #333; border-radius: 10px; background-color: #0d1117; padding: 20px;">
+        <h3>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>mohit@macbook-pro: ~</code></h3>
+        <hr style="border-color: #333;">
+        <pre style="background: transparent; border: none; font-family: 'Fira Code', monospace; color: #c9d1d9; text-align: left;">
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ whoami
+Mohit Lalwani
+&nbsp;
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ cat mission_statement.txt
+"I architect high-throughput logistics ERPs and automate AI voice agents.
+Currently building infrastructure that routes couriers and sends thousands
+of encrypted WhatsApp alerts per second."
+&nbsp;
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls -l ./tech_stack/
+drwxr-xr-x  <b>Frontend</b>    React 19, Next.js, Tailwind v4, Zustand, GSAP
+drwxr-xr-x  <b>Backend</b>     PHP 8.2, NestJS, Node.js, Python, ASP.NET Core
+drwxr-xr-x  <b>Database</b>    PostgreSQL, MongoDB, Redis, SQLite
+drwxr-xr-x  <b>AI_Agents</b>   LiveKit WebRTC, Groq Llama-3, Deepgram
+drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity AI, GitHub Copilot
+&nbsp;
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ _ <span style="animation: blink 1s step-end infinite;">█</span>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 ### 💻 Core Tech Stack & Private Repositories
