@@ -1,16 +1,14 @@
 <div align="center">
 
-```text
-        __...--~~~~~-._   _.-~~~~~--...__
-      //               `V'               \\ 
-     //                 |                 \\ 
-    //__...--~~~~~~-._  |  _.-~~~~~~--...__\\ 
-   //__.....----~~~~._\ | /_.~~~~----.....__\\
-  ====================\\|//====================
-                       `---`
-```
-# 📖 Mohit Lalwani
-### *Enterprise Architect & Autonomous AI Integrator*
+<div align="center">
+
+<img src="./assets/night_landscape.gif" width="100%" style="border-radius: 15px;" alt="Animated Night Landscape" />
+
+<br>
+
+<a href="https://github.com/mohit131415">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=50&pause=1000&color=79c0ff&center=true&vCenter=true&width=800&height=100&lines=Mohit+Lalwani;Enterprise+Architect;AI+Integrator" alt="Mohit Lalwani" />
+</a>
 
 *“Building systems that orchestrate couriers, automate thousands of daily messages, and converse via AI—all in real-time.”*
 
@@ -18,7 +16,7 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-lalwani)
 [![Send Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalwanimohit858@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917888261079)
+[![WhatsApp](https://img.shields.io/badge/WHATSAPP-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917888261079)
 
 <br><br>
 
@@ -74,7 +72,7 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity AI, GitHub Copilot
 ### ⚡ Live System Diagnostics
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohit131415&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit131415&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e" alt="Top Languages" width="48%" />
+<img src="https://quickchart.io/chart?w=500&h=300&bkg=transparent&c=%0A%7B%0A%20%20type%3A%20%27doughnut%27%2C%0A%20%20data%3A%20%7B%0A%20%20%20%20labels%3A%20%5B%27TypeScript%20/%20JS%27%2C%20%27PHP%27%2C%20%27Python%27%2C%20%27C%23%20/%20.NET%27%2C%20%27HTML%20/%20CSS%27%5D%2C%0A%20%20%20%20datasets%3A%20%5B%7B%0A%20%20%20%20%20%20data%3A%20%5B45%2C%2025%2C%2015%2C%2010%2C%205%5D%2C%0A%20%20%20%20%20%20backgroundColor%3A%20%5B%27%233178c6%27%2C%20%27%234F5D95%27%2C%20%27%233572A5%27%2C%20%27%23178600%27%2C%20%27%23e34c26%27%5D%2C%0A%20%20%20%20%20%20borderWidth%3A%200%2C%0A%20%20%20%20%20%20hoverOffset%3A%204%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%20%7B%0A%20%20%20%20plugins%3A%20%7B%0A%20%20%20%20%20%20legend%3A%20%7B%0A%20%20%20%20%20%20%20%20position%3A%20%27right%27%2C%0A%20%20%20%20%20%20%20%20labels%3A%20%7B%20fontColor%3A%20%27%238b949e%27%2C%20fontSize%3A%2014%2C%20fontFamily%3A%20%27monospace%27%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%20%20outlabels%3A%20%7B%0A%20%20%20%20%20%20%20%20text%3A%20%27%25l%20%25p%27%2C%0A%20%20%20%20%20%20%20%20color%3A%20%27white%27%2C%0A%20%20%20%20%20%20%20%20stretch%3A%2035%2C%0A%20%20%20%20%20%20%20%20font%3A%20%7B%20resizable%3A%20true%2C%20minSize%3A%2012%2C%20maxSize%3A%2018%20%7D%0A%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20title%3A%20%7B%20display%3A%20true%2C%20text%3A%20%27Actual%20Language%20Distribution%20%28Inc.%20Private%20Repos%29%27%2C%20fontColor%3A%20%27%23ffffff%27%2C%20fontSize%3A%2016%2C%20fontFamily%3A%20%27monospace%27%20%7D%0A%20%20%7D%0A%7D%0A" alt="Top Languages" width="48%" />
 
 <br>
 
