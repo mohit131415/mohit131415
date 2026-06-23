@@ -1,78 +1,61 @@
-<!-- HEADER WITH DYNAMIC ANIMATED BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6F00,100:00B0FF&height=220&section=header&text=Mohit%20Lalwani&fontSize=50&fontColor=ffffff&fontAlignY=35&descAlignY=55" width="100%" alt="Header Banner" />
+<!-- HEADER GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Cyberpunk Code Header"/>
+</p>
+
+<!-- NPM INSTALL BADGE -->
+<p align="center">
+  <img src="https://img.shields.io/badge/npm-install_mohit--lalwani-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm install mohit" />
+</p>
+
+---
+
+### 👨‍💻 `developer.config.ts`
+
+```typescript
+import { Developer, Stack, Toolkit, AIEngine } from '@mohit131415/core';
+
+const MohitLalwani: Developer = {
+  name: "Mohit Lalwani",
+  role: "Full-Stack Enterprise Architect & AI Integrator",
+  location: "Mumbai, India",
+  contact: {
+    email: "lalwanimohit858@gmail.com",
+    phone: "+91 7888261079",
+    portfolio: "http://rameshsweets.co.in"
+  },
   
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B0FF&center=true&vCenter=true&width=600&lines=Full-Stack+Enterprise+Architect;AI+%26+RTC+Integrator;Building+Hyperlocal+Logistics+APIs;Automating+with+AI+Agents" alt="Typing SVG" />
-  </a>
-</div>
+  architectures: [
+    {
+      name: "Ramesh Sweets ERP",
+      type: "Hyperlocal Logistics Engine",
+      features: ["Multi-Carrier Delivery Routing", "Cashfree PG", "Automated Billing"]
+    },
+    {
+      name: "WhatsApp Dispatcher",
+      type: "High-Throughput Notification Server",
+      features: ["Puppeteer DOM Automation", "Audit Trails", "Anti-Ban Rate Limiters"]
+    }
+  ],
 
-<!-- COMPACT TERMINAL-STYLE BIO SECTION -->
-```text
-> execute _profile.sh
+  stack: {
+    frontend: ["React 19", "Next.js 14", "Zustand", "Tailwind CSS v4", "GSAP"],
+    backend:  ["Node.js", "NestJS", "PHP 8.2", "ASP.NET Core (C#)", "Python"],
+    database: ["PostgreSQL", "MySQL", "MongoDB", "Redis", "Prisma ORM"]
+  } as Stack,
 
-[System]: Loading profile data...
-[User]:     Mohit Lalwani
-[Role]:     Full-Stack Software Engineer
-[HQ]:       Mumbai, India
-[Focus]:    Logistics Orchestration • High-Availability APIs • Autonomous AI Agents
-[Ping]:     lalwanimohit858@gmail.com | +91 7888261079
+  ai_integrations: {
+    engines: ["LiveKit WebRTC", "Groq Llama 3", "Deepgram STT/TTS"],
+    ide_tooling: ["Cursor", "Antigravity AI", "GitHub Copilot"]
+  } as AIEngine
+};
+
+export default MohitLalwani;
 ```
 
-<br>
-
-<!-- HIGHLIGHT/TROPHY SECTION USING GITHUB ACTION WIDGETS -->
-<div align="center">
-  <a href="https://github.com/mohit131415">
-    <img src="https://github-profile-trophy.vercel.app/?username=mohit131415&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7&title_color=00B0FF&text_color=B0BEC5" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
 ---
 
-<!-- TWO-COLUMN FEATURED PROJECTS -->
-### 🚀 Flagship Architectures
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🍬 Ramesh Sweets: Hyperlocal ERP
-**Enterprise E-Commerce & Dynamic Logistics Orchestrator**
-
-A high-availability checkout platform integrating directly with live on-demand logistics routes. Designed to handle massive traffic spikes during festival seasons.
-
-▸ **Frontend:** React 19, Tailwind CSS v4, Zustand, GSAP
-▸ **Backend:** PHP 8.2 Microservices, Redis Cache, JWT Auth
-▸ **Logistics APIs:** Uber Courier (Direct), Borzo, Shadowfax, Rapido Booking API
-▸ **Fintech:** Cashfree PG Integration & Automated PDF Invoicing
-
-<a href="http://rameshsweets.co.in/"><img src="https://img.shields.io/badge/Live_Site-rameshsweets.co.in-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 💬 Bulk WhatsApp Automation
-**High-Throughput Notification Dispatcher**
-
-A scalable notification automation tool for transactional alerts and customer engagement.
-
-▸ **Core Engine:** Node.js, Express, Puppeteer (Browser Automation)
-▸ **Features:** Configurable delay algorithms to prevent rate-limit bans, custom contact directory parsers.
-▸ **Dashboard:** Live audit tracking of delivery confirmations and failed numbers.
-
-<img src="https://img.shields.io/badge/Status-Production_Ready-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- VISUAL TECH STACK USING SKILL ICONS -->
-### 🧰 The Tech Arsenal & AI Toolkit
+### 🛰️ Core Capabilities
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -80,24 +63,13 @@ A scalable notification automation tool for transactional alerts and customer en
   </a>
 </p>
 
-*   **Languages:** TypeScript, JavaScript, Python, C#, C++, Java, PHP
-*   **Frameworks:** Next.js, React 19, NestJS, Express, ASP.NET Core
-*   **Databases:** PostgreSQL, MySQL, MongoDB, Redis, SQLite
-*   **AI Integrations:** LiveKit WebRTC, Groq LLM (Llama 3), Deepgram APIs
-*   **AI Coding Assistants:** **Cursor IDE**, **Antigravity AI**, **GitHub Copilot**
-
 ---
 
-<!-- GITHUB STATS & ANIMATED SNAKE -->
-### 📈 GitHub Analytics
+### 📊 System Telemetry
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit131415&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00B0FF&icon_color=FF6F00" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit131415&theme=tokyonight&hide_border=true&ring=00B0FF&fire=FF6F00&currStreakLabel=00B0FF" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit131415&custom_title=Annual%20Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=00B0FF&line=FF6F00&point=ffffff&title_color=00B0FF&area=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit131415&show_icons=true&theme=neon&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit131415&theme=neon&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 <!-- GITHUB CONTRIBUTION SNAKE ANIMATION -->
@@ -111,19 +83,8 @@ A scalable notification automation tool for transactional alerts and customer en
 
 ---
 
-<!-- FOOTER WITH ANIMATED WAVE AND CONTACT BUTTONS -->
-<div align="center">
-
-> *"Designing systems that scale, logistics that automate, and interfaces that feel premium."*
-
-<br>
-
-<a href="https://linkedin.com/in/mohit-lalwani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:lalwanimohit858@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Chat-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="tel:+917888261079"><img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%" alt="Footer Wave" />
-
-</div>
+<p align="center">
+  <i>Console execution complete. 🚀</i><br><br>
+  <a href="https://linkedin.com/in/mohit-lalwani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:lalwanimohit858@gmail.com"><img src="https://img.shields.io/badge/Email-Ping_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
