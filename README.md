@@ -56,6 +56,11 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity AI, GitHub Copilot
   <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23_&_.NET-60%25-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
+  <img src="https://img.shields.io/badge/Antigravity_AI-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -99,22 +104,6 @@ A scalable notification automation tool for transactional alerts and customer en
 </td>
 </tr>
 </table>
-
----
-
-### 🤖 AI Engineering & Autonomous Tooling
-
-I build and orchestrate next-generation AI agents capable of real-time voice interaction and autonomous task execution.
-* **LLM Engines:** `Groq (Llama-3)`, `OpenAI`
-* **Real-Time Comm:** `LiveKit WebRTC`, `Deepgram STT/TTS`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
-  <img src="https://img.shields.io/badge/Antigravity_AI-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
-</p>
-
-*Heavy daily usage of AI-assisted IDEs and agentic tools to build enterprise architectures at 10x speed.*
 
 ---
 
