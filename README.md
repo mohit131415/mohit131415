@@ -107,12 +107,6 @@ A scalable notification automation tool for transactional alerts and customer en
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="./github-metrics-trophies.svg" alt="GitHub Trophies" width="100%" />
-</p>
-
 ---
 
 ### 📊 GitHub Diagnostics
