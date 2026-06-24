@@ -14,26 +14,27 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Trophies
+        uses: lowlighter/metrics@latest
         with:
+          filename: github-metrics-trophies.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: main
-          filename: github-metrics.svg
-          
-          # Base content (Stats, Commits, Repos)
-          base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Kolkata
-          
-          # Plugins
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-          
-          # Trophies Plugin (Replaces the broken Vercel Trophies)
+          base: ""
           plugin_trophy: yes
           plugin_trophy_theme: flat
           plugin_trophy_rank: SSS, SS, S, AAA, AA, A, B, C
-          
-          # Languages
-          plugin_languages: yes
-          plugin_languages_ignored: html, css
+          config_theme: tokyonight
+
+      - name: Generate Core Stats
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics-stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          base: header, repositories
+          plugin_lines: yes
+          config_timezone: Asia/Kolkata
+          config_theme: tokyonight
