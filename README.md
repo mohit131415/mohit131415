@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,100:0052D4&height=250&section=header&text=Mohit%20Lalwani&fontSize=60&fontAlignY=35&desc=Enterprise%20Architect%20%7C%20AI%20Integrator&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,100:0052D4&height=250&section=header&text=Mohit%20Lalwani&fontSize=60&fontAlignY=35&desc=Enterprise%20Architect%20%7C%20Systems%20Engineer&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" alt="Header" />
 
 <br>
 
-<h3 align="center"><em>"Architecting high-throughput enterprise systems, dynamic logistics engines, and real-time AI automation."</em></h3>
+<h3 align="center"><em>"Architecting high-throughput enterprise systems, dynamic logistics engines, and real-time automation."</em></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-lalwani-6a588b28b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -20,14 +20,14 @@
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td width="800" style="border: 1px solid #333; border-radius: 10px; background-color: #0d1117; padding: 20px;">
-        <h3>🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>mohit@macbook-pro: ~</code></h3>
+        <h3 align="left">🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>mohit@macbook-pro: ~</code></h3>
         <hr style="border-color: #333;">
         <pre style="background: transparent; border: none; font-family: 'Fira Code', monospace; color: #c9d1d9; text-align: left;">
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ whoami
 Mohit Lalwani
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ cat mission_statement.txt
-"I architect resilient, high-availability logistics platforms and real-time AI voice agents.
+"I architect resilient, high-availability logistics platforms and enterprise automation.
 Currently engineering low-latency infrastructure that orchestrates live couriers and
 dispatches thousands of encrypted WhatsApp notifications per second."
 &nbsp;
@@ -57,7 +57,7 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termiu
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor IDE" />
-  <img src="https://img.shields.io/badge/Antigravity_AI-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity AI" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-FF6F00?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Antigravity IDE" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
