@@ -34,9 +34,8 @@ of encrypted WhatsApp alerts per second."
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls -l ./tech_stack/
 drwxr-xr-x  <b>Frontend</b>    Vanilla JS, React 19, Next.js, Tailwind v4, Zustand, GSAP
 drwxr-xr-x  <b>Backend</b>     Node.js, NestJS, PHP 8.2, Python, C#, ASP.NET Core
-drwxr-xr-x  <b>Database</b>    PostgreSQL, MongoDB, Redis, SQLite
-drwxr-xr-x  <b>AI_Agents</b>   LiveKit WebRTC, Groq Llama-3, Deepgram
-drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity IDE, GitHub Copilot
+drwxr-xr-x  <b>Database</b>    PostgreSQL, MongoDB, Supabase, Redis, SQLite
+drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termius, XAMPP
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ _ <span style="animation: blink 1s step-end infinite;">█</span>
         </pre>
@@ -76,7 +75,7 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity IDE, GitHub Copilot
 <tr>
 <td width="50%" valign="top">
 
-#### 🍬 Ramesh Sweets: Hyperlocal ERP
+#### 🍬 Ramesh Sweets: Hyperlocal E-Commerce
 **Enterprise E-Commerce & Dynamic Logistics Orchestrator**
 
 A massive real-time checkout platform integrating directly with live on-demand logistics routes (Uber/Borzo). Designed to handle traffic spikes during festival seasons with 100% uptime.
