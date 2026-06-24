@@ -34,7 +34,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.METRICS_TOKEN }}
           committer_branch: main
-          base: header, repositories
+          base: header, activity, community, repositories, metadata
           plugin_lines: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
           config_timezone: Asia/Kolkata
           config_theme: tokyonight
