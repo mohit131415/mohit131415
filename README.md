@@ -32,11 +32,11 @@ Currently building infrastructure that routes couriers and sends thousands
 of encrypted WhatsApp alerts per second."
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls -l ./tech_stack/
-drwxr-xr-x  <b>Frontend</b>    React 19, Next.js, Tailwind v4, Zustand, GSAP
-drwxr-xr-x  <b>Backend</b>     PHP 8.2, NestJS, Node.js, Python, ASP.NET Core
+drwxr-xr-x  <b>Frontend</b>    Vanilla JS, React 19, Next.js, Tailwind v4, Zustand, GSAP
+drwxr-xr-x  <b>Backend</b>     Node.js, NestJS, PHP 8.2, Python, C#, ASP.NET Core
 drwxr-xr-x  <b>Database</b>    PostgreSQL, MongoDB, Redis, SQLite
 drwxr-xr-x  <b>AI_Agents</b>   LiveKit WebRTC, Groq Llama-3, Deepgram
-drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity AI, GitHub Copilot
+drwxr-xr-x  <b>Dev_Tools</b>   Cursor IDE, Antigravity IDE, GitHub Copilot
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ _ <span style="animation: blink 1s step-end infinite;">█</span>
         </pre>
@@ -111,9 +111,6 @@ A scalable notification automation tool for transactional alerts and customer en
 
 ### 📊 GitHub Diagnostics
 
-<p align="center">
-  <img src="./github-metrics-stats.svg" alt="GitHub Core Stats" width="80%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit131415&theme=tokyonight&hide_border=true&ring=00B0FF&fire=FF6F00&currStreakLabel=00B0FF" alt="GitHub Streak" width="80%" />
