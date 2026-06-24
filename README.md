@@ -27,9 +27,9 @@
 Mohit Lalwani
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ cat mission_statement.txt
-"I architect high-throughput logistics ERPs and enterprise workflows.
-Engineered infrastructure that routes couriers and sends thousands
-of encrypted WhatsApp alerts per second."
+"I architect high-throughput enterprise systems and scalable workflows.
+My mission is to engineer cost-effective, optimized software solutions
+that radically simplify human effort and reduce operational overhead."
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls -l ./tech_stack/
 drwxr-xr-x  <b>Frontend</b>    Vanilla JS, React 19, Next.js, Tailwind v4, Zustand, GSAP
