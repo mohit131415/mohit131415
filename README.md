@@ -119,7 +119,7 @@ A scalable notification automation tool for transactional alerts and customer en
 
 ### 📊 GitHub Diagnostics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit131415&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=00B0FF&icon_color=00B0FF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-gamma-vert-91.vercel.app/api?username=mohit131415&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00B0FF&icon_color=00B0FF" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit131415&theme=tokyonight&hide_border=true&ring=00B0FF&fire=FF6F00&currStreakLabel=00B0FF" alt="GitHub Streak" width="48%" />
 </p>
 
