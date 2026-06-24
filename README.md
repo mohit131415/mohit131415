@@ -28,7 +28,7 @@ Mohit Lalwani
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ cat mission_statement.txt
 "I architect high-throughput logistics ERPs and enterprise workflows.
-Currently building infrastructure that routes couriers and sends thousands
+Engineered infrastructure that routes couriers and sends thousands
 of encrypted WhatsApp alerts per second."
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls -l ./tech_stack/
