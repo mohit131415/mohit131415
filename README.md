@@ -4,7 +4,7 @@
 
 <br>
 
-<h3 align="center"><em>"Designing high-throughput ERPs, orchestrating couriers, and automating AI in real-time."</em></h3>
+<h3 align="center"><em>"Architecting high-throughput enterprise systems, dynamic logistics engines, and real-time AI automation."</em></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-lalwani-6a588b28b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -27,9 +27,9 @@
 Mohit Lalwani
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ cat mission_statement.txt
-"I architect high-throughput logistics ERPs and automate AI voice agents.
-Currently building infrastructure that routes couriers and sends thousands
-of encrypted WhatsApp alerts per second."
+"I architect resilient, high-availability logistics platforms and real-time AI voice agents.
+Currently engineering low-latency infrastructure that orchestrates live couriers and
+dispatches thousands of encrypted WhatsApp notifications per second."
 &nbsp;
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls -l ./tech_stack/
 drwxr-xr-x  <b>Frontend</b>    Vanilla JS, React 19, Next.js, Tailwind v4, Zustand, GSAP
@@ -46,7 +46,7 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termiu
 ---
 
 ### 💻 Core Tech Stack & Private Repositories
-*While GitHub's native charts only show public data, my daily engineering revolves around these core languages (including private enterprise codebases):*
+*My primary engineering ecosystem spanning both open-source contributions and private enterprise architecture:*
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript_&_JavaScript-90%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -78,7 +78,7 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termiu
 #### 🍬 Ramesh Sweets: Hyperlocal E-Commerce
 **Enterprise E-Commerce & Dynamic Logistics Orchestrator**
 
-A massive real-time checkout platform integrating directly with live on-demand logistics routes (Uber/Borzo). Designed to handle traffic spikes during festival seasons with 100% uptime.
+An enterprise-grade, real-time checkout ecosystem integrated with live on-demand logistics (Uber, Borzo). Architected for extreme fault tolerance to seamlessly absorb massive traffic spikes during peak festival seasons with zero downtime.
 
 ▸ **Frontend:** React 19, Tailwind CSS v4, Zustand
 ▸ **Backend:** PHP 8.2 Microservices, Redis Cache
@@ -92,7 +92,7 @@ A massive real-time checkout platform integrating directly with live on-demand l
 #### 💬 Bulk WhatsApp Engine
 **High-Throughput Notification Dispatcher**
 
-A scalable notification automation tool for transactional alerts and customer engagement. Completely bypasses standard API limitations using sophisticated DOM control.
+A highly scalable automation engine for transactional alerting and customer engagement. Engineered to bypass rate limits using sophisticated headless browser orchestration and DOM manipulation.
 
 ▸ **Core Engine:** Node.js, Express, Puppeteer
 ▸ **Features:** Configurable delay algorithms, custom parsers.
