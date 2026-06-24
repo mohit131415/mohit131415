@@ -110,9 +110,8 @@ A scalable notification automation tool for transactional alerts and customer en
 
 ### 📊 GitHub Diagnostics
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit131415&theme=tokyonight&hide_border=true&ring=00B0FF&fire=FF6F00&currStreakLabel=00B0FF" alt="GitHub Streak" width="80%" />
+  <img src="./github-metrics-stats.svg" alt="GitHub Core Stats" width="80%" />
 </p>
 
 <p align="center">
