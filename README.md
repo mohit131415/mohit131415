@@ -20,7 +20,7 @@
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td width="800" style="border: 1px solid #333; border-radius: 10px; background-color: #0d1117; padding: 20px;">
-        <h3 align="left">🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code>mohit@macbook-pro: ~</code></h3>
+        <h3 align="left">🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: 'Fira Code', monospace; color: #c9d1d9;">mohit@macbook-pro: ~</span></h3>
         <hr style="border-color: #333;">
         <pre style="background: transparent; border: none; font-family: 'Fira Code', monospace; color: #c9d1d9; text-align: left;">
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ whoami
