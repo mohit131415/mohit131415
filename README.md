@@ -20,7 +20,7 @@
   <table border="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td width="800" style="border: 1px solid #333; border-radius: 10px; background-color: #0d1117; padding: 20px;">
-        <h3 align="left">🔴 🟡 🟢 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: 'Fira Code', monospace; color: #c9d1d9;">mohit@macbook-pro: ~</span></h3>
+        <h3 align="left">ðŸ”´ ðŸŸ¡ ðŸŸ¢ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: 'Fira Code', monospace; color: #c9d1d9;">mohit@macbook-pro: ~</span></h3>
         <hr style="border-color: #333;">
         <pre style="background: transparent; border: none; font-family: 'Fira Code', monospace; color: #c9d1d9; text-align: left;">
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ whoami
@@ -37,7 +37,7 @@ drwxr-xr-x  <b>Backend</b>     Node.js, NestJS, PHP 8.2, Python, C#, ASP.NET Cor
 drwxr-xr-x  <b>Database</b>    PostgreSQL, MongoDB, Supabase, Redis, SQLite
 drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termius, XAMPP
 &nbsp;
-<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ _ <span style="animation: blink 1s step-end infinite;">█</span>
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ _ <span style="animation: blink 1s step-end infinite;">â–ˆ</span>
         </pre>
       </td>
     </tr>
@@ -45,7 +45,7 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termiu
 </div>
 ---
 
-### 💻 Core Tech Stack & Private Repositories
+### ðŸ’» Core Tech Stack & Private Repositories
 *My primary engineering ecosystem spanning both open-source contributions and private enterprise architecture:*
 
 <p align="left">
@@ -69,34 +69,34 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termiu
 
 ---
 
-### 🚀 Production Architectures
+### ðŸš€ Production Architectures
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 🍬 Ramesh Sweets: Hyperlocal E-Commerce
+#### ðŸ¬ Ramesh Sweets: Hyperlocal E-Commerce
 **Enterprise E-Commerce & Dynamic Logistics Orchestrator**
 
 An enterprise-grade, real-time checkout ecosystem integrated with live on-demand logistics (Uber, Borzo). Architected for extreme fault tolerance to seamlessly absorb massive traffic spikes during peak festival seasons with zero downtime.
 
-▸ **Frontend:** React 19, Tailwind CSS v4, Zustand
-▸ **Backend:** PHP 8.2 Microservices, Redis Cache
-▸ **Integrations:** Uber Courier, Borzo, Rapido, Cashfree PG
+â–¸ **Frontend:** React 19, Tailwind CSS v4, Zustand
+â–¸ **Backend:** PHP 8.2 Microservices, Redis Cache
+â–¸ **Integrations:** Uber Courier, Borzo, Rapido, Cashfree PG
 
 <a href="http://rameshsweets.co.in/"><img src="https://img.shields.io/badge/Live_Uplink-rameshsweets.co.in-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
 
-#### 💬 Bulk WhatsApp Engine
+#### ðŸ’¬ Bulk WhatsApp Engine
 **High-Throughput Notification Dispatcher**
 
 A highly scalable automation engine for transactional alerting and customer engagement. Engineered to bypass rate limits using sophisticated headless browser orchestration and DOM manipulation.
 
-▸ **Core Engine:** Node.js, Express, Puppeteer
-▸ **Features:** Configurable delay algorithms, custom parsers.
-▸ **Dashboard:** Live audit tracking of delivery confirmations.
+â–¸ **Core Engine:** Node.js, Express, Puppeteer
+â–¸ **Features:** Configurable delay algorithms, custom parsers.
+â–¸ **Dashboard:** Live audit tracking of delivery confirmations.
 
 <img src="https://img.shields.io/badge/Status-Operational-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
 
@@ -108,14 +108,14 @@ A highly scalable automation engine for transactional alerting and customer enga
 
 ---
 
-### 📊 GitHub Diagnostics
+### ðŸ“Š GitHub Diagnostics
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics and Trophies" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit131415&custom_title=Annual%20Contribution%20Graph&hide_border=true&bg_color=1a1b27&color=00B0FF&line=00B0FF&point=ffffff&title_color=00B0FF&area=true" alt="Activity Graph" width="100%" />
+  <img src="./activity-graph.svg" alt="Activity Graph" width="100%" />
 </p>
 
 <div align="center">
