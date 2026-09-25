@@ -17,35 +17,38 @@
 <br>
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
+  <table width="100%" border="0" style="border-collapse: collapse; border: none;">
     <tr>
-      <td width="800" style="border: 1px solid #333; border-radius: 10px; background-color: #0d1117; padding: 20px;">
-        <h3 align="left">ðŸ”´ ðŸŸ¡ ðŸŸ¢ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-family: 'Fira Code', monospace; color: #c9d1d9;">mohit@macbook-pro: ~</span></h3>
+      <td style="border: 1px solid #333; border-radius: 10px; background-color: #0d1117; padding: 16px;">
+        <table width="100%">
+          <tr>
+            <td align="left">🔴 🟡 🟢</td>
+            <td align="right"><span style="font-family: monospace; color: #c9d1d9;">mohit@macbook</span></td>
+          </tr>
+        </table>
         <hr style="border-color: #333;">
-        <pre style="background: transparent; border: none; font-family: 'Fira Code', monospace; color: #c9d1d9; text-align: left;">
-<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ whoami
+        <pre style="background: transparent; border: none; font-family: monospace; color: #c9d1d9; text-align: left; white-space: pre-wrap;"><span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ whoami
 Mohit Lalwani
-&nbsp;
+
 <span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ cat mission_statement.txt
 "I architect high-throughput enterprise systems and scalable workflows.
 My mission is to engineer cost-effective, optimized software solutions
 that radically simplify human effort and reduce operational overhead."
-&nbsp;
-<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls -l ./tech_stack/
-drwxr-xr-x  <b>Frontend</b>    Vanilla JS, React 19, Next.js, Tailwind v4, Zustand, GSAP
-drwxr-xr-x  <b>Backend</b>     Node.js, NestJS, PHP 8.2, Python, C#, ASP.NET Core
-drwxr-xr-x  <b>Database</b>    PostgreSQL, MongoDB, Supabase, Redis, SQLite
-drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termius, XAMPP
-&nbsp;
-<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ _ <span style="animation: blink 1s step-end infinite;">â–ˆ</span>
-        </pre>
+
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ ls ./tech_stack/
+<b>Frontend</b>   Vanilla JS, React, Next.js, Tailwind, Zustand, GSAP
+<b>Backend</b>    Node.js, NestJS, PHP, Python, C#, ASP.NET Core
+<b>Database</b>   PostgreSQL, MongoDB, Supabase, Redis, SQLite
+<b>Dev_Tools</b>  Cursor, VS Code, Docker, Postman, Termius
+
+<span style="color: #79c0ff;">mohit@macbook</span>:<span style="color: #a5d6ff;">~</span>$ █</pre>
       </td>
     </tr>
   </table>
 </div>
 ---
 
-### ðŸ’» Core Tech Stack & Private Repositories
+### 💻 Core Tech Stack & Private Repositories
 *My primary engineering ecosystem spanning both open-source contributions and private enterprise architecture:*
 
 <p align="left">
@@ -69,46 +72,43 @@ drwxr-xr-x  <b>Dev_Tools</b>   Cursor, VS Code, IBM Bob, Docker, Postman, Termiu
 
 ---
 
-### ðŸš€ Production Architectures
+### 🚀 Production Architectures
 
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-#### ðŸ¬ Ramesh Sweets: Hyperlocal E-Commerce
-**Enterprise E-Commerce & Dynamic Logistics Orchestrator**
-
-An enterprise-grade, real-time checkout ecosystem integrated with live on-demand logistics (Uber, Borzo). Architected for extreme fault tolerance to seamlessly absorb massive traffic spikes during peak festival seasons with zero downtime.
-
-â–¸ **Frontend:** React 19, Tailwind CSS v4, Zustand
-â–¸ **Backend:** PHP 8.2 Microservices, Redis Cache
-â–¸ **Integrations:** Uber Courier, Borzo, Rapido, Cashfree PG
-
-<a href="http://rameshsweets.co.in/"><img src="https://img.shields.io/badge/Live_Uplink-rameshsweets.co.in-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-
+<td valign="top" style="padding: 16px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
+<h3>🍬 Ramesh Sweets</h3>
+<p><b>Hyperlocal E-Commerce · Dynamic Logistics</b></p>
+<p>An enterprise-grade, real-time checkout ecosystem integrated with live on-demand logistics (Uber, Borzo). Architected for extreme fault tolerance so peak festival traffic is absorbed with zero downtime.</p>
+<table width="100%">
+<tr><td width="130"><b>Frontend</b></td><td>React 19, Tailwind CSS v4, Zustand</td></tr>
+<tr><td><b>Backend</b></td><td>PHP 8.2 microservices, Redis</td></tr>
+<tr><td><b>Integrations</b></td><td>Uber Courier, Borzo, Rapido, Cashfree</td></tr>
+</table>
+<br>
+<a href="http://rameshsweets.co.in/"><img src="https://img.shields.io/badge/Live-rameshsweets.co.in-00B0FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live site" /></a>
 </td>
-<td width="50%" valign="top">
-
-#### ðŸ’¬ Bulk WhatsApp Engine
-**High-Throughput Notification Dispatcher**
-
-A highly scalable automation engine for transactional alerting and customer engagement. Engineered to bypass rate limits using sophisticated headless browser orchestration and DOM manipulation.
-
-â–¸ **Core Engine:** Node.js, Express, Puppeteer
-â–¸ **Features:** Configurable delay algorithms, custom parsers.
-â–¸ **Dashboard:** Live audit tracking of delivery confirmations.
-
-<img src="https://img.shields.io/badge/Status-Operational-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
+</tr>
+<tr><td height="14"></td></tr>
+<tr>
+<td valign="top" style="padding: 16px; border: 1px solid #30363d; border-radius: 10px; background-color: #0d1117;">
+<h3>💬 Bulk WhatsApp Engine</h3>
+<p><b>High-Throughput Notification Dispatcher</b></p>
+<p>A scalable automation engine for transactional alerts and customer engagement, built to stay inside provider rate limits with headless browser orchestration and DOM control.</p>
+<table width="100%">
+<tr><td width="130"><b>Core Engine</b></td><td>Node.js, Express, Puppeteer</td></tr>
+<tr><td><b>Features</b></td><td>Configurable delays, custom parsers</td></tr>
+<tr><td><b>Dashboard</b></td><td>Live audit of delivery confirmations</td></tr>
+</table>
+<br>
+<img src="https://img.shields.io/badge/Status-Operational-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Operational" />
 </td>
 </tr>
 </table>
 
 ---
 
----
-
-### ðŸ“Š GitHub Diagnostics
+### 📊 GitHub Diagnostics
 
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics and Trophies" width="100%" />
